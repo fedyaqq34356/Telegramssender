@@ -1,0 +1,4 @@
+telethon>=1.33.0
+python-dotenv
+aiogram
+openpyxl
